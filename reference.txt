@@ -1,0 +1,5 @@
+主动学习的paper list
+https://github.com/baifanxxx/awesome-active-learning
+
+
+
